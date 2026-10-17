@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/togethercomputer/together-python/commit/cc9f25369987e73bcd037be955833c37ac8a9109",
       "git:hexsha": "cc9f25369987e73bcd037be955833c37ac8a9109",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/togethercomputer/together-python/commit/1b6f4b0fcfcf80506cfcc080397fac4f25f127d2",
